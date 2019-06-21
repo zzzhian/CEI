@@ -1,0 +1,89 @@
+body {
+	font-family: "宋体";
+	font-size: 12px;
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;}
+
+a{
+	text-decoration:none;}
+
+.daohang{
+	background:url(../../images/3.jpg) no-repeat;
+	display:block;
+	height:67px;}
+
+.daohang a{
+	font-size:14px;
+	color:#FFFFFF;
+	font-weight:bold;
+	text-decoration:none;}
+
+.daohang a:hover{
+	color:#FFFF99;
+	font-size:14px;
+	font-weight:bold;
+	text-decoration:none;}
+
+.gonggao{
+	background:url(../../images/7.jpg) no-repeat;
+	height:24px;}
+
+.xinwen{
+	background:url(../../images/8.jpg) no-repeat;
+	height:30px;}
+
+.gengduo{
+	padding-right:20px;}
+
+.gengduo a{
+	font-size:12px;
+	color:#666666;}
+
+.gengduo a:hover{
+	color:#009900;
+	font-size:12px;}
+
+.xinwen1{
+	border-bottom:1px solid #82b8df;
+	border-left:1px solid #82b8df;
+	border-right:1px solid #82b8df;}
+
+.tongzhi{
+	background:url(../../images/9.jpg) no-repeat;
+	height:30px;}
+
+.xiangguan{
+	background:url(../../images/12.jpg) repeat-x;}
+
+.xiangguan1{
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-left:20px;
+	padding-right:20px;}
+
+.dibu{
+	background:url(../../images/21.jpg) repeat-x;
+	height:125px;
+	color:#FFFFFF;}
+
+.dibu a{
+	color:#FFFFFF;
+	font-weight:bold;}
+
+.dibu a:hover{
+	color:#FFFF99;}
+
+.beijing{
+	background:url(../../images/35.jpg) no-repeat center;
+	padding-left:45px;}
+
+.beijing a{
+	font-size:12px;
+	font-weight:bold;
+	color:#FFFFFF;}
+
+.beijing a:hover{
+	color:#FFFF99;}
